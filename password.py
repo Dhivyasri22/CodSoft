@@ -28,3 +28,5 @@ def password_generator(length):
 password_length=int(input("Enter the length:"))
 print("Generated password:",password_generator(password_length))
 
+#Enter the length:12
+#Generated password: 0cf0{awP~vP$
