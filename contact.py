@@ -280,6 +280,19 @@ def main():
 if __name__ == "__main__":
     main()
 
+#Contact Management System
+#Add Contact
+#View Contact List
+#Search Contact
+#Update Contact
+#Delete Contact
+#Exit
+#Choose an option: 1
+#Enter store name: smart
+#Enter phone number: 98765433312
+#Enter email: lion@gmail.com
+#Enter address: madurai
+#Contact added successfully.
 
 
 
