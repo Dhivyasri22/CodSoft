@@ -37,3 +37,12 @@ def game_play():
         if play_again != 'yes':
             print("Thankyou for competing!")
             break
+            
+#Welcome to the game of Rock, Paper, Scissors
+#Choose rock, paper, or scissors: rock
+#You chose: rock
+#Computer chose: rock
+#It's a tie!
+#Score - You:0, Computer:0
+#Do you want to play again? (yes/no): no
+#Thankyou for competing!            
